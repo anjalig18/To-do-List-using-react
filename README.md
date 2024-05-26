@@ -21,7 +21,7 @@ To-Do List using react/
 ├── .gitignore
 ├── package.json
 ├── README.md
-└── ...
+└── LICENSE
 ```
 
 - **public/**: Contains the `index.html` file and other static assets.
