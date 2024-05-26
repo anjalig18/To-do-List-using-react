@@ -10,14 +10,18 @@ To-Do List using react/
 ├── node_modules/
 ├── public/
 │   ├── index.html
-│   └── ...
+│   ├── robots.txt
+|   ├── favicon.ico
+|   ├── manifest.json
+|   ├── logo192.png
+|   ├── logo512.png
 ├── src/
 │   ├── App.css
 │   ├── App.js
 │   ├── index.css
 │   ├── index.js
 │   ├── TodoList.js
-│   └── ...
+│   └── setupTests.js
 ├── .gitignore
 ├── package.json
 ├── README.md
