@@ -1,12 +1,12 @@
 
-# To-Do List Application
+# To-Do List using react
 
 This is a simple To-Do List application built with React. It allows users to add, toggle, and delete tasks.
 
 ## Project Structure
 
 ```
-todo-app/
+TO-Do List using react/
 ├── node_modules/
 ├── public/
 │   ├── index.html
