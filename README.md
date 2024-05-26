@@ -6,7 +6,7 @@ This is a simple To-Do List application built with React. It allows users to add
 ## Project Structure
 
 ```
-TO-Do List using react/
+To-Do List using react/
 ├── node_modules/
 ├── public/
 │   ├── index.html
